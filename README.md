@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Far Away Packing List 🏝️🧳
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple packing list application built using React. The app allows users to add items to a packing list, mark items as packed, delete individual items, and clear the entire list. It's designed to help users stay organized when preparing for a trip.
 
-## Available Scripts
+This project was created as part of *The Ultimate React Course 2024: React, Next.js, Redux & More* by Jonas Schmedtmann.
 
-In the project directory, you can run:
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Add Items**: Users can add items to the packing list with a specified quantity.
+- **Mark Items as Packed**: Items can be marked as packed, which will visually strike them through in the list.
+- **Delete Items**: Users can delete individual items from the list.
+- **Clear List**: The entire list can be cleared after confirmation from the user.
+- **Sort Items**: Items can be sorted by input order, description, or packed status.
+- **Packing Stats**: The app displays the total number of items, the number of packed items, and the percentage of items packed.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ensure you have the following installed on your machine:
 
-### `npm run build`
+- Node.js (v14 or higher)
+- npm (v6 or higher) or yarn (v1.22 or higher)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ```bash
+    git clone https://github.com/tal-mat/FarAwayPackingList.git
+    ```
 
-### `npm run eject`
+2. Navigate to the project directory:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```bash
+    cd FarAwayPackingList
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Install the dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    ```bash
+    npm install
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Start the development server:
 
-## Learn More
+    ```bash
+    npm start
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+1. Add an item to the packing list by entering a description and selecting a quantity.
+2. Mark items as packed by checking the checkbox next to the item.
+3. Delete an item by clicking the ❌ button.
+4. Clear the entire list by clicking the "Clear list" button.
+5. Sort the list by using the dropdown menu to choose between sorting by input order, description, or packed status.
+6. View your packing stats at the bottom of the app.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Components
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **App**: The main component that manages the state of the app and coordinates other components.
+- **Logo**: Displays the app's logo with emoji icons.
+- **Form**: Handles the addition of new items to the packing list.
+- **PackingList**: Displays the list of items, with the ability to delete or toggle the packed status of each item.
+- **Item**: Represents an individual item in the packing list.
+- **Stats**: Displays the packing statistics, including the total number of items, packed items, and packing percentage.
