@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20a5297b-79e5-4b42-9332-ca374f6ded61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../01-pure-react/starter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03-pizza-menu/starter/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PackingList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-pizza-menu/starter/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/pizzas/focaccia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/pizzas/funghi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/pizzas/margherita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/pizzas/prosciutto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/pizzas/salamino.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-pizza-menu/starter/pizzas/spinaci.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2lFETOGwlfhZSa1Tf05OqjyD5p6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="es6.move.members.recent.items">
+      <recent name="C:\Users\Tal\Documents\Programming courses\ReactCourse\ultimate-react-course\05-travel-list\starter\src\Stats.js" />
+      <recent name="C:\Users\Tal\Documents\Programming courses\ReactCourse\ultimate-react-course\05-travel-list\starter\src\Item.js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tal\Documents\Programming courses\ReactCourse\ultimate-react-course\05-travel-list\starter\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling log-folder="C:\Program Files\JetBrains\WebStorm 2023.2.5\jbr\bin\." />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a5297b-79e5-4b42-9332-ca374f6ded61" name="Changes" comment="" />
+      <created>1724767430833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724767430833</updated>
+      <workItem from="1724767431891" duration="5199000" />
+      <workItem from="1725183047423" duration="34000" />
+      <workItem from="1725198803418" duration="8930000" />
+      <workItem from="1725261409484" duration="2062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
